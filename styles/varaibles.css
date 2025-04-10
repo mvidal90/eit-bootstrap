@@ -13,3 +13,11 @@
     --bs-btn-active-bg: rgb(239, 76, 103);
     --bs-btn-active-border-color: rgb(239, 76, 103);
 }
+
+.page-link {
+    --bs-pagination-color:  rgb(246, 70, 99);
+    --bs-pagination-hover-color:  rgb(251, 41, 76);
+    --bs-pagination-focus-color:  rgb(251, 41, 76);
+    --bs-pagination-focus-box-shadow: 0 0 0 0.25rem rgba(251, 41, 76, 0.25);
+    --bs-pagination-border-color: rgb(230, 155, 168);
+}
